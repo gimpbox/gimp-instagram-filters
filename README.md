@@ -27,6 +27,8 @@ After installation restart Gimp. The script is located in menu Filters -> Gimpbo
 
 More Info: [Installing Script-Fu scripts](https://docs.gimp.org/en/install-script-fu.html)
 
+To install and use the script watch also my video [Creating 43 instagram filters in GIMP using one script](https://www.youtube.com/watch?v=FMNEPqugUuY)
+
 ## Donate
 If you like my project, you can give me a cup of coffee :)  
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=CT246TKR5ZREW)
